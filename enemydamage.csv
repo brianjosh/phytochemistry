@@ -1,0 +1,25 @@
+Species,Treatment,Diversity,damageI,damageF
+Andropogon gerardii,Control,Monoculture,5.8,3
+Andropogon gerardii,Control,Monoculture,0,1.6
+Andropogon gerardii,Control,Monoculture,0,10.2
+Andropogon gerardii,Control,Polyculture,0.6,2.8
+Andropogon gerardii,Control,Polyculture,0.6,4.6
+Andropogon gerardii,Control,Polyculture,0,3
+Andropogon gerardii,Pesticide,Monoculture,0,0
+Andropogon gerardii,Pesticide,Monoculture,0,0.6
+Andropogon gerardii,Pesticide,Monoculture,0,0
+Andropogon gerardii,Pesticide,Polyculture,0,2
+Andropogon gerardii,Pesticide,Polyculture,0.4,1.4
+Andropogon gerardii,Pesticide,Polyculture,0,2
+Lespedeza capitata,Control,Monoculture,2.2,3.4
+Lespedeza capitata,Control,Monoculture,0,2
+Lespedeza capitata,Control,Monoculture,0.6,6.8
+Lespedeza capitata,Control,Polyculture,0.2,2.6
+Lespedeza capitata,Control,Polyculture,2.4,1.8
+Lespedeza capitata,Control,Polyculture,0,0.3
+Lespedeza capitata,Pesticide,Monoculture,0.7,0.1
+Lespedeza capitata,Pesticide,Monoculture,0.4,0.2
+Lespedeza capitata,Pesticide,Monoculture,1.2,0.2
+Lespedeza capitata,Pesticide,Polyculture,0.2,0.3
+Lespedeza capitata,Pesticide,Polyculture,1.2,0
+Lespedeza capitata,Pesticide,Polyculture,2.3,0.2

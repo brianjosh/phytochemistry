@@ -1,0 +1,25 @@
+Sample,Species,Diversity,Treatment,Combo,diversityaq,diversityli,diversityaq5ppm
+1,Lespedeza capitata,Monoculture,Control,Monoculture Control,0.98921,0.97011,0.95752
+2,Lespedeza capitata,Monoculture,Control,Monoculture Control,0.98978,0.97189,0.95751
+3,Lespedeza capitata,Monoculture,Control,Monoculture Control,0.99058,0.96626,0.95796
+4,Andropogon gerardii,Monoculture,Control,Monoculture Control,0.99198,0.98707,0.9641
+5,Andropogon gerardii,Monoculture,Control,Monoculture Control,0.98937,0.98474,0.9398
+6,Andropogon gerardii,Monoculture,Control,Monoculture Control,0.99069,0.98297,0.957
+7,Lespedeza capitata,Polyculture,Control,Polyculture Control,0.991,0.97192,0.9596
+8,Lespedeza capitata,Polyculture,Control,Polyculture Control,0.99026,0.97272,0.95911
+9,Lespedeza capitata,Polyculture,Control,Polyculture Control,0.99119,0.96925,0.96107
+10,Andropogon gerardii,Polyculture,Control,Polyculture Control,0.99182,0.98574,0.96118
+11,Andropogon gerardii,Polyculture,Control,Polyculture Control,0.99092,0.98511,0.938
+12,Andropogon gerardii,Polyculture,Control,Polyculture Control,0.99045,0.98026,0.92593
+13,Lespedeza capitata,Monoculture,Pesticide,Monoculture Pesticide,0.99096,0.969,0.95933
+14,Lespedeza capitata,Monoculture,Pesticide,Monoculture Pesticide,0.99162,0.95578,0.95396
+15,Lespedeza capitata,Monoculture,Pesticide,Monoculture Pesticide,0.98954,0.95403,0.96078
+16,Andropogon gerardii,Monoculture,Pesticide,Monoculture Pesticide,0.99195,0.9849,0.9631
+17,Andropogon gerardii,Monoculture,Pesticide,Monoculture Pesticide,0.99146,0.98333,0.95175
+18,Andropogon gerardii,Monoculture,Pesticide,Monoculture Pesticide,0.99004,0.98378,0.87222
+19,Lespedeza capitata,Polyculture,Pesticide,Polyculture Pesticide,0.99175,0.95771,0.96155
+20,Lespedeza capitata,Polyculture,Pesticide,Polyculture Pesticide,0.99081,0.97016,0.96099
+21,Lespedeza capitata,Polyculture,Pesticide,Polyculture Pesticide,0.99121,0.97211,0.9578
+22,Andropogon gerardii,Polyculture,Pesticide,Polyculture Pesticide,0.99198,0.9836,0.95883
+23,Andropogon gerardii,Polyculture,Pesticide,Polyculture Pesticide,0.99012,0.98405,0.95875
+24,Andropogon gerardii,Polyculture,Pesticide,Polyculture Pesticide,0.99107,0.98336,0.94808
